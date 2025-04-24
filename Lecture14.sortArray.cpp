@@ -20,6 +20,7 @@ void sortone(int arr[],int n){
        while(arr [right] == 1 && left<right){
      right--;
        }
+       //
 
    if(left<right)
    {
